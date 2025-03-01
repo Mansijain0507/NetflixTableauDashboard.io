@@ -1,4 +1,3 @@
-# Dashboard README
 
 ## Overview
 This dashboard provides a comprehensive analysis of Movies and TV Shows, including their distribution across various categories such as release year, genre, country, ratings, and duration. The data is visually represented using graphs and charts for better understanding.
